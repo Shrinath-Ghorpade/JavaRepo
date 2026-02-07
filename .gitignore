@@ -1,0 +1,8 @@
+.metadata
+*.class
+*.log
+*.tmp
+bin/
+target/
+out/
+*.class
